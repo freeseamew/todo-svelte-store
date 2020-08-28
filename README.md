@@ -33,4 +33,12 @@ http://localhost:5000
 ## use package
  - sveltejs
  - uuid
+ - routify
+ - axios
+
+
+ ## 온라인 강좌 
+
+
+
  
