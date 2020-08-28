@@ -1,6 +1,7 @@
 
 # svelte todo app
 연습용으로 만든 svelte todo를 store를 이용해 리팩토링한 예제입니다. 
++ store 이용한 todo app
 + routify를 이용한 라우터 구현
 + ajax 예제 추가
 
